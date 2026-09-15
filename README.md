@@ -1,25 +1,26 @@
 ## Hi, I'm Nick 👋
 
 
-👨‍💻 Aspiring software engineer
+👨‍💻 Software engineer
 
-📚 Computer science graduate student
+📚 Computer science graduate student at UPenn
 
-🧪 Chemical engineer
+🤖 AI professional
 
-📥 Open-source contributer
+🧪 Former chemical engineer
 
+💾 Currently learning CUDA and GPU Computing
 
 <details>
 <summary>Top 5 Programming Languages</summary>
 
 | Rank | Language |
 |-----:|---------------|
-|     1|  ☕️ Java       |
-|     2|  🐍 Python    |
-|     3|  C            |
-|     4|  MATLAB       |
-|     5|  C++          |
+|     1|  🐍 Python    |
+|     2|  ☕️ Java      |
+|     3|  C/C++        |
+|     4|  JavaScript   |
+|     5|  C#           |
 
 </details>
 
